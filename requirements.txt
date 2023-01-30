@@ -1,0 +1,8 @@
+pandas
+numpy as np
+matplotlib.pyplot as plt
+geopy
+streamlit as st
+altair as alt
+from geopy.geocoders import Nominatim
+pydeck as pdk
